@@ -1,0 +1,36 @@
+/* body{
+    background-image: url(../images/1200px-Rust_programming_language_black_logo.svg\ \(1\).png);
+    background-position: absolute ;
+    
+    opacity: 0.3;
+    z-index: 0; */
+    
+
+
+div{
+    padding: 3% 20% 2% 20%;
+    font-family: "Open Sans", sans-serif;
+    line-height: 22px;
+    z-index: 1;
+    margin: -35% 0 0 0;
+    
+}
+h1{
+    font-size: 200%;
+}
+h1+p{
+    font-style: italic;
+}
+a{
+    color: rgb(43, 170, 202);
+}
+
+.image_div{
+    width: 20%;
+    height: 20%;
+    margin: 15% 40% 0% 40% ;
+    opacity: 0.4;
+    /* position: sticky;
+     */
+     background-position: fixed;
+}

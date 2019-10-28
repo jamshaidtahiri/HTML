@@ -1,0 +1,73 @@
+*{
+    margin: 2.2% 0 0 0 ;
+}
+.font_class{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family:  'Raleway'; */
+    /* text-transform: none; 
+    font-weight: lighter; */
+    text-decoration: double;
+    /* line-height: 10px;
+    letter-spacing: 1px;
+    word-spacing: 2px; */
+    /* background: rgb(117, 216, 117); */
+    /* font-weight: bolder; */
+    text-align: justify;
+    /* text-align: center; */
+    text-shadow: 2px 2px 1px wheat;
+    
+}
+
+.font_class::selection{
+    color: wheat;
+    text-shadow: 2px 2px 1px black;
+}
+.font_class:visited{
+    color: orangered;
+}
+.font_class:hover{
+    color: rgb(36, 33, 33);
+    font-weight: bold;
+}
+
+.img_class{
+    /* image-resolution: 200px; */
+    width: 25%;
+    /* height: 20%; */
+    margin: 5% 0% 5% 0%;
+    /* vertical-align: middle; */
+    /* background: forestgreen; */
+
+    
+    
+}
+
+div{
+    margin-left: 27%;
+    margin-right: 2%;
+    margin-top: -33%;
+    font-size: 20px;
+        background: rgb(117, 216, 117);
+        padding: 2%;
+        border-radius: 20px;
+        border: black solid 2px;
+
+ /* white-space: pre; */
+ text-align: justify;
+}
+@font-face{
+    font-family: "Raleway";
+    src: url(../fonts/Raleway/Raleway-Light.ttf);
+}
+
+ul>li:first-child{
+    color: tomato;
+}
+ul>li:nth-child(2){
+    color: yellow;
+}
+
+.special{
+  font-weight: bold;
+}
