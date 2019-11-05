@@ -1,0 +1,105 @@
+.parent_class{
+    margin-top: 5%;
+    /* border: solid 1px  ; */
+    /* margin-right: 67.5%;
+    margin-left: 2.5%; */
+    text-align: center;
+    float: left;
+    width: 30%;
+    margin-left: 2.5%;
+    box-shadow:2px 2px 10px rgb(29, 29, 29);
+    border-radius: 6px;
+   /* border: solid; */
+
+}
+
+.text_class{
+    margin: 5%;
+    text-align: left;
+}
+
+.button_class{
+    text-align: left;
+    margin: 18px;
+}
+
+button{
+    background-color: rgb(8, 177, 255);
+   color: whitesmoke;
+   padding: 10px 16px 10px 16px;
+   border-radius: 6px;
+   border: solid;
+   font-size: 12px;
+   font-weight: bolder;
+}
+button:hover{
+    background-color: rgb(16, 137, 194);
+
+   
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 2%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .circle{
+    border:2px solid blue ;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    text-align: center;
+     padding-top: 30px ; 
+
+    border-radius:40px ;
+
+}
+
+p{
+     margin: 10% 0% 0% 0%; 
+    margin-top: 35%;
+} */

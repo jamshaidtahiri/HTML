@@ -1,5 +1,5 @@
 .nav_class{
-    margin: -8% 0% 0% 0%;
+    margin: -6% 0% 0% 0%;
 }
 
 ul {
@@ -9,7 +9,7 @@ ul {
     margin: 0% 0% 0% 55%;
     padding: 0;
     overflow: hidden;
-    /* background-color: #333; */
+    background-color: rgb(214, 208, 208);
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
@@ -41,4 +41,7 @@ li a {
   
   
   
-  
+  @font-face{
+    font-family: "Raleway";
+    src: url(../fonts/Raleway/Raleway-Light.ttf);
+}
